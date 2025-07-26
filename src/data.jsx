@@ -38,7 +38,7 @@ const data = [
         id: 6,
         name: "Rishikesh",
         info:"Rishikesh, located in Uttarakhand, is known as the Yoga Capital of the World and a major hub for spirituality, adventure sports, and nature. It’s famous for its temples, including Triveni Ghat, Neelkanth Mahadev Temple, and the Lakshman Jhula. Rishikesh is also a popular destination for rafting, trekking, and camping along the Ganges River.  ",
-        image: "https://ihplb.b-cdn.net/wp-content/uploads/2019/02/river-rafting-rishikesh.png ",
+        image: "https://uttarakhandtourism.gov.in/assets/media/UTDB_media_1736491078under_banner_1.jpg ",
         price: "55,234",
     },
     {
